@@ -1,5 +1,5 @@
 import sublime, sublime_plugin
-import os, re, subprocess, sys,binascii
+import os, re, subprocess, sys
 
 
 class PhpSyntaxChecker(sublime_plugin.EventListener):
