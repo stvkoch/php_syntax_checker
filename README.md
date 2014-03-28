@@ -19,3 +19,9 @@ Contacts
 --------
 Writen by:
  * Naomichi Yamakita - yamakita@dtx.co.jp
+
+
+Steven comment
+--------------
+
+ * Add support to Sublime Text 3
